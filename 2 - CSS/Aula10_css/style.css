@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(183, 178, 178);
+    font-family: 'Baloo 2', cursive;
+    color: #343434
+}
+
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.fotinho {
+    width: 200px;
+    border: 2px solid rgb(77, 74, 74);
+    border-radius: 50%;
+    margin: 30px 30px 30px 30px;
+    /*qdo tenho todos os valores iguais posso deixar apenas 1, como no padding abaixo:*/
+    padding: 10px;
+    box-shadow: 2px 0px 15px #00000069;
+}
+
+h1 {
+    margin-bottom: 0px;
+    letter-spacing: -1px;
+}
+
+h2 {
+    margin-top: 0px;
+    font-style: italic;
+    color: #876868;
+    font-weight: lighter;
+    letter-spacing: -1px;
+}
+
+/*.caixa {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    border: 5px solid yellow;
+    border-radius: 10px;
+    margin: 0 auto; /*significa q qdo passo 2 valores o 1 valor é top e bottom, e 2o valor left e right, aqui estou dando os valores de cima/baixo e depois os laterais*/

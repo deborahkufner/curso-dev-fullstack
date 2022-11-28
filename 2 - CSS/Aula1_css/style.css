@@ -1,0 +1,19 @@
+body {                       /* todo estilo em css deve ser feito exatamente dessa forma*/
+    background-color:cornsilk;      /*seletor, propriedade e valor*/
+}
+
+h3 {         /*verde é apenas o nome que eu dei pra essa classe, poderia ser pietro kkk antes era verde, depois mudamos pra h3 pra facilitar todos os meus titulos h3 ficarem com a mesma cor*/
+    color:darkred
+}
+
+h2 {
+    color:darkblue
+}
+
+.fotinho {
+    width: 500px;
+}
+
+#titulo-principal {
+    color:brown
+}

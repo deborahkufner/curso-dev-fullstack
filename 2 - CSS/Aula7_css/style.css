@@ -1,0 +1,28 @@
+body {                       
+   background-color: rgb(183, 178, 178); 
+   font-family: 'Baloo 2', cursive;
+   color: #343434 
+}
+
+.fotinho{
+    width: 200px;
+    border: 2px solid rgb(77, 74, 74);
+    border-radius: 50%;
+    margin: 30px 30px 30px 30px; /*qdo tenho todos os valores iguais posso deixar apenas 1, como no padding abaixo:*/
+    padding: 10px;
+    box-shadow: 2px 0px 15px #00000069;
+
+}
+
+h1 {
+    margin-bottom: 0px;
+    letter-spacing: -1px;
+}
+
+h2{
+    margin-top: 0px;
+    font-style: italic;
+    color: #876868;
+    font-weight: lighter;
+    letter-spacing: -1px;
+}

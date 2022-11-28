@@ -1,0 +1,15 @@
+body {                       
+   background-color: rgb(183, 178, 178);   
+}
+
+p {
+    color: #000000
+}
+
+.fotinho{
+    width: 200px;
+    border: 2px solid rgb(77, 74, 74);
+    border-radius: 50%;
+    margin: 30px 30px 30px 30px; /*qdo tenho todos os valores iguais posso deixar apenas 1, como no padding abaixo:*/
+    padding: 10px;
+}
